@@ -1,6 +1,6 @@
 # Bill of Material
 
-Draft BOM seed for review. Supplier links and affiliate wrapping are not complete yet.
+Parts list for the Hawkridge package. The visible PDF version is attached in the Printables Documentation section: https://www.printables.com/model/1776622-biomimetic-human-hand
 
 | Item | Qty | Category | Notes |
 |---|---:|---|---|

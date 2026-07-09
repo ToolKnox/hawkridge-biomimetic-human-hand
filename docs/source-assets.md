@@ -1,32 +1,13 @@
 # Source assets
 
-Original source: https://github.com/JCarroll-OU/Biomimetic-Human-Hand
+Original source/remix parent: https://github.com/JCarroll-OU/Biomimetic-Human-Hand
 
-This repo tracks the Hawkridge documentation/refurbishment pass. Source code and PCB assets stay attributed to the original upstream project until a full import/refurbishment pass is approved.
+This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
 
-## Code/config candidates
+## Code, firmware, and configuration
 
 - `Software/Concurrent/DC_Motor_PID_Controller/DC_Motor_PID_Controller.ino`
 - `Software/Concurrent/DC_Motor_PID_Controller/PID_Test/PID_Test.ino`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/Form1.Designer.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/Form1.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/Program.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows/DC_Motor_Controller_SPI_Command_Test.AssemblyInfo.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows/DC_Motor_Controller_SPI_Command_Test.GlobalUsings.g.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows10.0.17763.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows10.0.17763.0/DC_Motor_Controller_SPI_Command_Test.AssemblyInfo.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows10.0.17763.0/DC_Motor_Controller_SPI_Command_Test.GlobalUsings.g.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows8.0/DC_Motor_Controller_SPI_Command_Test.AssemblyInfo.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows8.0/DC_Motor_Controller_SPI_Command_Test.GlobalUsings.g.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows8.0/DC_Motor_Controller_Serial_Command_Test.AssemblyInfo.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Debug/net8.0-windows8.0/DC_Motor_Controller_Serial_Command_Test.GlobalUsings.g.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Release/net8.0-windows8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Release/net8.0-windows8.0/DC_Motor_Controller_SPI_Command_Test.AssemblyInfo.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Release/net8.0-windows8.0/DC_Motor_Controller_SPI_Command_Test.GlobalUsings.g.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Release/net8.0-windows8.0/DC_Motor_Controller_Serial_Command_Test.AssemblyInfo.cs`
-- `Software/Concurrent/Serial Command Assembler/DC_Motor_Controller_SPI_Command_Test/obj/Release/net8.0-windows8.0/DC_Motor_Controller_Serial_Command_Test.GlobalUsings.g.cs`
 - `Software/Deprecated/AVR PID Controller/DC_Motor_Control_Hub.c`
 - `Software/Deprecated/AVR PID Controller/include/adc.h`
 - `Software/Deprecated/AVR PID Controller/include/conversions.h`
@@ -37,7 +18,7 @@ This repo tracks the Hawkridge documentation/refurbishment pass. Source code and
 - `Software/Deprecated/AVR PID Controller/src/motors.c`
 - `Software/Deprecated/AVR PID Controller/src/spi.c`
 
-## PCB/electronics manufacturing candidates
+## PCB and electronics manufacturing assets
 
 - `Designs/Concurrent/DC Motor Controller/Mk1/Assembly/DC Motor Controller v45.csv`
 - `Designs/Concurrent/DC Motor Controller/Mk1/DC Motor Controller PCB.zip`

@@ -6,7 +6,7 @@ Status: draft / review package. Not published for release.
 
 ## Links
 
-- Printables draft: pending
+- Printables draft: https://www.printables.com/model/1776622-biomimetic-human-hand
 - Original source/remix parent: https://github.com/JCarroll-OU/Biomimetic-Human-Hand
 - Maker Portal slug: `biomimetic-human-hand`
 

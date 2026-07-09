@@ -8,4 +8,4 @@ Printables page: https://www.printables.com/model/1776622-biomimetic-human-hand
 
 - **Files** — printable STL/CAD files for the build.
 - **Documentation** — `Biomimetic Human Hand Bill of Material.pdf` with the parts list.
-- **Description** — short project overview and links back to these docs.
+- **Description** — short project overview and links back to this repo.

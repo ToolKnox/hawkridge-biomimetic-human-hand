@@ -1,6 +1,14 @@
 # Biomimetic Human Hand
 
 Apache-2.0 mostly 3D-printable 21-DOF robotic hand prototype with many printable files and PCB BOM artifacts; strong robotics BOM candidate but complex.
+## Documentation download
+
+Download the complete build documentation/source package from this GitHub repository:
+
+- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
+- **Start here:** `README.md` for the build/install guide.
+- **Documentation pointer:** `download-documentation/README.md`.
+- **Mirrored upstream source/assets:** `source/upstream/`.
 
 ## Installation / quick start
 
@@ -103,4 +111,3 @@ https://github.com/JCarroll-OU/Biomimetic-Human-Hand
 - Full mirrored upstream source/software/PCB files: `source/upstream/`
 - Source asset index: `docs/source-assets.md`
 - Standalone install/build guide: `docs/INSTALLATION.md`
-

@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [10 0 R 13 0 R 18 0 R 23 0 R] /Count 4 >>
+<< /Type /Pages /Kids [14 0 R] /Count 1 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,7 +16,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 6 0 obj
-<< /Length 2147 >>
+<< /Length 7046 >>
 stream
 0.0400 0.0400 0.0400 rg
 39.00 447.28 763.89 118.00 re f
@@ -46,10 +46,10 @@ stream
 0.80 w 44.00 495.28 m 797.89 495.28 l S
 0.8500 0.3600 0.1400 rg
 BT /F1 8.00 Tf 117.00 534.28 Td (B I L L   O F   M A T E R I A L S) Tj ET
+0.0400 0.0400 0.0400 rg
+113.00 500.53 291.50 28.35 re f
 1.0000 1.0000 1.0000 rg
-BT /F1 27.00 Tf 117.00 507.28 Td (Biomimetic Human) Tj ET
-1.0000 1.0000 1.0000 rg
-BT /F1 27.00 Tf 117.00 479.28 Td (Hand) Tj ET
+BT /F1 27.00 Tf 117.00 507.28 Td (Biomimetic Human Hand) Tj ET
 0.8400 0.8600 0.8800 rg
 BT /F1 8.50 Tf 117.00 467.28 Td (Rev. 2026-07-09    3 items) Tj ET
 0.9500 0.9600 0.9800 rg
@@ -70,10 +70,152 @@ BT /F1 11.00 Tf 385.19 413.28 Td (Buy me a Beer) Tj ET
 548.26 405.28 254.63 26.00 re B
 0.0000 0.2700 0.6200 rg
 BT /F1 11.00 Tf 584.83 413.28 Td (Join my club for exclusive models) Tj ET
+0.9300 0.9400 0.9500 rg
+0.6200 0.6500 0.6900 RG
+0.50 w
+39.00 372.28 763.89 19.00 re B
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 46.00 378.28 Td () Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 74.00 378.28 Td (Description) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 67.00 372.28 m 67.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 402.62 378.28 Td (Qty) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 389.00 372.28 m 389.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 462.75 378.28 Td (AliExpress) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 429.00 372.28 m 429.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 553.62 378.28 Td (Amazon \(Geniuslink\)) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 539.00 372.28 m 539.00 391.28 l S
+0.0800 0.0900 0.1100 rg
+BT /F1 8.50 Tf 656.00 378.28 Td (Notes) Tj ET
+0.6200 0.6500 0.6900 RG
+0.45 w 649.00 372.28 m 649.00 391.28 l S
+0.0800 0.0900 0.1100 RG
+0.65 w 39.00 372.28 m 802.89 372.28 l S
+0.0800 0.1200 0.1800 rg
+39.00 354.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 359.78 Td (PRINTED PARTS) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 359.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 288.28 763.89 66.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 288.28 m 67.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 288.28 m 389.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 288.28 m 429.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 288.28 m 539.00 354.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 288.28 m 649.00 354.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 318.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 340.28 Td (FDM/SLS/SLA printable hand parts) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 318.28 Td (1) Tj ET
+0.7000 0.7000 0.7000 rg
+BT /F1 9.00 Tf 481.75 318.28 Td (-) Tj ET
+0.7000 0.7000 0.7000 rg
+BT /F1 9.00 Tf 591.75 318.28 Td (-) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 341.28 Td (Reference only / printable-source) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 331.28 Td (row; excluded from purchase-link) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 321.28 Td (coverage before release. README) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 311.28 Td (says most parts are designed for 3D) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 270.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 275.78 Td (ELECTRONICS) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 275.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 226.28 763.89 44.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 226.28 m 67.00 270.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 226.28 m 389.00 270.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 226.28 m 429.00 270.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 226.28 m 539.00 270.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 226.28 m 649.00 270.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 245.28 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 256.28 Td (DC motor controller PCB/BOM set) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 245.28 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 245.28 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 243.78 m 515.50 243.78 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 245.28 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 243.78 m 617.10 243.78 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 257.28 Td (Repository includes DC Motor) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 247.28 Td (Controller Bill of Materials) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 237.28 Td (artifacts.) Tj ET
+0.0800 0.1200 0.1800 rg
+39.00 208.28 763.89 18.00 re f
+1.0000 1.0000 1.0000 rg
+BT /F2 9.50 Tf 49.00 213.78 Td (HARDWARE) Tj ET
+0.7200 0.7600 0.8200 rg
+BT /F1 8.00 Tf 329.00 213.78 Td (1 item) Tj ET
+1.0000 1.0000 1.0000 rg
+0.6200 0.6500 0.6900 RG
+0.45 w
+39.00 175.28 763.89 33.00 re B
+0.6200 0.6500 0.6900 RG
+0.40 w 67.00 175.28 m 67.00 208.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 389.00 175.28 m 389.00 208.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 429.00 175.28 m 429.00 208.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 539.00 175.28 m 539.00 208.28 l S
+0.6200 0.6500 0.6900 RG
+0.40 w 649.00 175.28 m 649.00 208.28 l S
+0.4800 0.5000 0.5300 rg
+BT /F1 8.50 Tf 48.75 188.78 Td (>>) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F1 9.00 Tf 74.00 194.28 Td (Actuation/mechanical hardware set) Tj ET
+0.0800 0.0900 0.1100 rg
+BT /F2 9.00 Tf 406.75 188.78 Td (1) Tj ET
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 452.50 188.78 Td (AliExpress Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 452.50 187.28 m 515.50 187.28 l S
+0.0000 0.2700 0.6200 rg
+BT /F1 8.40 Tf 570.90 188.78 Td (Amazon Link) Tj ET
+0.0000 0.2700 0.6200 RG
+0.45 w 570.90 187.28 m 617.10 187.28 l S
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 195.28 Td (Needs extraction from CAD/assembly) Tj ET
+0.3000 0.3000 0.3000 rg
+BT /F3 8.00 Tf 656.00 185.28 Td (files before affiliate linking.) Tj ET
 0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (1/4) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (1/4) Tj ET
+BT /F1 8.00 Tf 784.89 18.00 Td (1/1) Tj ET
 endstream
 endobj
 7 0 obj
@@ -83,350 +225,42 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [293.63 405.28 548.26 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.paypal.com/paypalme/TomKnox3d) >> >>
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox_1573) >> >>
+<< /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox/store) >> >>
 endobj
 10 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R] /Contents 6 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 228.28 534.00 268.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3fd1zBB?SearchText=DC+motor+controller+PCB%2FBOM+set) >> >>
 endobj
 11 0 obj
-<< /Length 3003 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Biomimetic Human Hand) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776622-biomimetic-human-hand) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (PRINTED PARTS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 393.28 763.89 66.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 393.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 393.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 393.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 393.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 393.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 423.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (FDM/SLS/SLA printable hand parts) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 423.28 Td (1) Tj ET
-0.7000 0.7000 0.7000 rg
-BT /F1 9.00 Tf 481.75 423.28 Td (-) Tj ET
-0.7000 0.7000 0.7000 rg
-BT /F1 9.00 Tf 591.75 423.28 Td (-) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Reference only / printable-source) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 436.28 Td (row; excluded from purchase-link) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 426.28 Td (coverage before release. README) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 416.28 Td (says most parts are designed for 3D) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (2/4) Tj ET
-endstream
+<< /Type /Annot /Subtype /Link /Rect [544.00 228.28 644.00 268.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/7rOqEp3) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776622-biomimetic-human-hand) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 177.28 534.00 206.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVGHSYHdB0nbq638qKWQHXD5nbwEdEgchPLJ5VQEVEwlXeGa1HgBW7ciRWtsngCcnOAQFFIg8n73Qyg89eQgkqKrjKbTGwnxvsk6TaCbn4JpztRnaMZUdT3SKHv5dh1RVkVjO6wu1jbZOemKgch6CBWPI3pYyKFTbaXN5vyJD06MVZs5XCqecwsrkyajAAOMndau30jDlLQD7IK9isGSgPLnxO4x26k1DHcHpKlL4K8OR9y3f4qEwscpXYxujwwZJjO4BsW0TNmxYPUcIrkvi3hnWULVYbP3CJWHGV2gK5lI1WjuXRwSzUdHdoAyDC4Wu749Zvq8pWOcqBrpW6DTnXTICt5n48yltqWrsDPO5y7SXSjRgPZ882kkRAmNqgMkfXEGXrM8D1JPu835Oha8BaFKoxc899nFOkaG24VR4A3FLI7FgIZQGf7TPCby9dxDU8kAQaz74hXVgjVY4gUiyRLqp4Z8pWGU4dHKGo6L54K4ctgymxIV7CLQRLLXv4gdv2SqEVJ7uGuiQ4f4URpLst4GqiiVLlZ7PamOt1VLj91Yap2n01nUoOsdQXbjpQjYjVPXpfODj4on3oY3U1gmjbaUml1QO7lHmOaM55B3ffDCcPW1RPBg6Fn9RvqqsSJ4Nu5cBO5QcUp0CXCaYWoGwKUvUkC2IJJwC1mtBfOEFlmPUyWfzHON7GXxYzBg2BpMh2PtSAceNBBFe4oaNmpnCwtO5e4lHqhIHk4PcPzzIPT) >> >>
 endobj
 13 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [12 0 R] /Contents 11 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 177.28 644.00 206.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/1zm9L) >> >>
 endobj
 14 0 obj
-<< /Length 3024 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Biomimetic Human Hand) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776622-biomimetic-human-hand) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (ELECTRONICS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 415.28 763.89 44.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 415.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 415.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 415.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 415.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 415.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 434.28 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (DC motor controller PCB/BOM set) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 434.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 434.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 432.78 m 515.50 432.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 434.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 432.78 m 617.10 432.78 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Repository includes DC Motor) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 436.28 Td (Controller Bill of Materials) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 426.28 Td (artifacts.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (3/4) Tj ET
-endstream
-endobj
-15 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776622-biomimetic-human-hand) >> >>
-endobj
-16 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 417.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3fd1zBB?SearchText=DC+motor+controller+PCB%2FBOM+set) >> >>
-endobj
-17 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 417.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/7rOqEp3) >> >>
-endobj
-18 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [15 0 R 16 0 R 17 0 R] /Contents 14 0 R >>
-endobj
-19 0 obj
-<< /Length 2957 >>
-stream
-0.0400 0.0400 0.0400 rg
-0.0800 0.0900 0.1100 RG
-0.50 w
-39.00 524.28 52.00 34.00 re B
-1.0000 1.0000 1.0000 rg
-BT /F2 12.00 Tf 51.00 537.28 Td (BOM) Tj ET
-0.0800 0.0900 0.1100 RG
-0.45 w
-91.00 524.28 382.00 34.00 re S
-0.0800 0.0900 0.1100 RG
-0.45 w
-473.00 524.28 329.89 34.00 re S
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 545.28 Td (Product/Project: Biomimetic Human Hand) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.50 Tf 99.00 532.28 Td (Revision date: 2026-07-09) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 9.50 Tf 490.69 537.28 Td (https://www.printables.com/model/1776622-biomimetic-human-hand) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 490.69 535.78 m 785.19 535.78 l S
-0.0800 0.1200 0.1800 rg
-39.00 478.28 763.89 26.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 11.00 Tf 49.00 487.28 Td (HARDWARE) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.50 Tf 259.00 487.28 Td (1 items) Tj ET
-0.9300 0.9400 0.9500 rg
-0.6200 0.6500 0.6900 RG
-0.50 w
-39.00 459.28 763.89 19.00 re B
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 46.00 465.28 Td () Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 74.00 465.28 Td (Description) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 67.00 459.28 m 67.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 402.62 465.28 Td (Qty) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 389.00 459.28 m 389.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 462.75 465.28 Td (AliExpress) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 429.00 459.28 m 429.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 553.62 465.28 Td (Amazon \(Geniuslink\)) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 539.00 459.28 m 539.00 478.28 l S
-0.0800 0.0900 0.1100 rg
-BT /F1 8.50 Tf 656.00 465.28 Td (Notes) Tj ET
-0.6200 0.6500 0.6900 RG
-0.45 w 649.00 459.28 m 649.00 478.28 l S
-0.0800 0.0900 0.1100 RG
-0.65 w 39.00 459.28 m 802.89 459.28 l S
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 426.28 763.89 33.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 426.28 m 67.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 426.28 m 389.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 426.28 m 429.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 426.28 m 539.00 459.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 426.28 m 649.00 459.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 439.78 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 445.28 Td (Actuation/mechanical hardware set) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 439.78 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 439.78 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 438.28 m 515.50 438.28 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 439.78 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 438.28 m 617.10 438.28 l S
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 446.28 Td (Needs extraction from CAD/assembly) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 436.28 Td (files before affiliate linking.) Tj ET
-0.5500 0.5500 0.5500 rg
-BT /F1 8.00 Tf 784.89 18.00 Td (4/4) Tj ET
-endstream
-endobj
-20 0 obj
-<< /Type /Annot /Subtype /Link /Rect [473.00 524.28 802.89 558.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/model/1776622-biomimetic-human-hand) >> >>
-endobj
-21 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 428.28 534.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVGHSYHdB0nbq638qKWQHXD5nbwEdEgchPLJ5VQEVEwlXeGa1HgBW7ciRWtsngCcnOAQFFIg8n73Qyg89eQgkqKrjKbTGwnxvsk6TaCbn4JpztRnaMZUdT3SKHv5dh1RVkVjO6wu1jbZOemKgch6CBWPI3pYyKFTbaXN5vyJD06MVZs5XCqecwsrkyajAAOMndau30jDlLQD7IK9isGSgPLnxO4x26k1DHcHpKlL4K8OR9y3f4qEwscpXYxujwwZJjO4BsW0TNmxYPUcIrkvi3hnWULVYbP3CJWHGV2gK5lI1WjuXRwSzUdHdoAyDC4Wu749Zvq8pWOcqBrpW6DTnXTICt5n48yltqWrsDPO5y7SXSjRgPZ882kkRAmNqgMkfXEGXrM8D1JPu835Oha8BaFKoxc899nFOkaG24VR4A3FLI7FgIZQGf7TPCby9dxDU8kAQaz74hXVgjVY4gUiyRLqp4Z8pWGU4dHKGo6L54K4ctgymxIV7CLQRLLXv4gdv2SqEVJ7uGuiQ4f4URpLst4GqiiVLlZ7PamOt1VLj91Yap2n01nUoOsdQXbjpQjYjVPXpfODj4on3oY3U1gmjbaUml1QO7lHmOaM55B3ffDCcPW1RPBg6Fn9RvqqsSJ4Nu5cBO5QcUp0CXCaYWoGwKUvUkC2IJJwC1mtBfOEFlmPUyWfzHON7GXxYzBg2BpMh2PtSAceNBBFe4oaNmpnCwtO5e4lHqhIHk4PcPzzIPT) >> >>
-endobj
-22 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 428.28 644.00 457.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/1zm9L) >> >>
-endobj
-23 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [20 0 R 21 0 R 22 0 R] /Contents 19 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R] /Contents 6 0 R >>
 endobj
 xref
-0 24
+0 15
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000143 00000 n 
-0000000213 00000 n 
-0000000288 00000 n 
-0000000366 00000 n 
-0000002565 00000 n 
-0000002752 00000 n 
-0000002919 00000 n 
-0000003085 00000 n 
-0000003266 00000 n 
-0000006322 00000 n 
-0000006511 00000 n 
-0000006682 00000 n 
-0000009759 00000 n 
-0000009948 00000 n 
-0000010162 00000 n 
-0000010312 00000 n 
-0000010497 00000 n 
-0000013507 00000 n 
-0000013696 00000 n 
-0000014888 00000 n 
-0000015036 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000267 00000 n 
+0000000345 00000 n 
+0000007443 00000 n 
+0000007630 00000 n 
+0000007797 00000 n 
+0000007964 00000 n 
+0000008178 00000 n 
+0000008328 00000 n 
+0000009520 00000 n 
+0000009668 00000 n 
 trailer
-<< /Size 24 /Root 1 0 R >>
+<< /Size 15 /Root 1 0 R >>
 startxref
-15221
+9877
 %%EOF
